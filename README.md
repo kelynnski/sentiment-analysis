@@ -1,0 +1,5 @@
+# Task
+
+This was an open-ended project assigned as part of my Master of Science (Human Language Technology) program, in the class Advanced Statistical Natural Language Processing. It had the goal of experimenting with and learning about neural networks. The task I chose was to investigate doing a sentiment analysis on a real-world dataset that I found online. I chose this task because sentiment analysis is an important NLP task, since it can help companies understand what their customers are saying about them, and where they can make improvements.
+
+The basic goal of the project was that if the model reads in some text, it will be able to predict the negative, neutral, or positive sentiment. While this is focused on a particular dataset I found on Yelp, the basic architecture I developed could be used on other datasets as well (with additional testing and adjustments to the model based on different styles of texts).
